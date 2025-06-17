@@ -1,1 +1,15 @@
 # Tattslotto-Data-Analysis-Business-Insights-Portfolio
+Main Goal:
+Use Tattslotto draw data to showcase data cleaning, analysis, and visualization skills.
+
+Business Questions to Explore:
+
+What are the most frequently drawn numbers?
+
+Are odd or even numbers more common?
+
+How do prize amounts and winner counts vary over time?
+
+Which divisions show the highest variability in winners?
+
+Can we identify any seasonality or monthly patterns?
