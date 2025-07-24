@@ -25,7 +25,7 @@ The year 2023 recorded the highest total prize pool of $92 million, indicating a
 
 In 294 draws, the result was split evenly between 3 High (20–45) and 3 Low (1–19) numbers — the most common configuration.
 
-⚖ **Odd vs Even Analysis:**
+ **Odd vs Even Analysis:**
 
 Total Even numbers drawn across all draws slightly outnumbered Odd numbers, showing a subtle skew toward even outcomes.
 
