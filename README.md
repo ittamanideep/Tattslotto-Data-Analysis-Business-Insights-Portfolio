@@ -31,7 +31,7 @@ Total Even numbers drawn across all draws slightly outnumbered Odd numbers, show
 
 **Power BI Features Used**
 
-- Power Query: Data cleanup, unpivoting supplementary numbers
+- Power Query: Data cleanup, Data formatting, unpivoting numbers
 - Visuals: Bar, Donut, Line, Table
 - Custom Color Palette and Theming
 - Filters: Draw Year, Division, Number Range
